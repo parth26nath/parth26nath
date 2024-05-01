@@ -28,7 +28,7 @@ src="https://unwrapped.dev/shared/parth26nath/day_night_cycle/LmdtMGlh" alt="par
 
 - ⚡ Fun fact **I am little bit lazy :>) but always excited to learn new things.**
 - ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth26nath&show_icons=true&theme=transparent)
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth26nath/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="parth26nath" /></a>
