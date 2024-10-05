@@ -35,9 +35,6 @@ npx parthchauhan
 
 - 📫 How to reach me **parth26nath@gmail.com**
 
-- ⚡ Fun fact **I am little bit lazy :>) but always excited to learn new things.**
-
-
 
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth26nath&show_icons=true&theme=transparent)
   
