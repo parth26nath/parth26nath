@@ -4,6 +4,18 @@
          width="45" /> , I'm Parth Nath Chauhan</h1>
 <h2 align="center"> Fix the Cause ,  Not the Symptom</h2>
 
+<h1 >Try it out</h1>
+
+```
+npx parthchauhan
+```
+
+
+
+
+
+
+
 
 
 
