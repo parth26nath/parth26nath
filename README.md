@@ -41,7 +41,7 @@ npx parthchauhan
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth26nath/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="parth26nath" /></a>      
-<a href="https://twitter.com/ParthNathc11125" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/parth26nath?logo=twitter&style=for-the-badge" alt="parth26nath" /></a>
+<a href="https://twitter.com/0xparthhh" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/parth26nath?logo=twitter&style=for-the-badge" alt="parth26nath" /></a>
 </p>
 
 
